@@ -1,6 +1,6 @@
-body{
-	background:black;
-}
+body{background-color: #CC6666;
+     background-position: center;
+    }
 
 footer{
 	background-color: #063;
@@ -53,20 +53,10 @@ nav{
 	top: -54px;
 }
 
-article{
-	background: #C66;
-	text-align:center;
-	width:479px;
-	height:225px;
-	top:16px;
-	left:83px;
-	position:absolute;
-	border-radius:12px;
-}
 
 section{
 	background: #999;
-	text-align:center;
+	text-align: left;
 	width:669px;
 	height:261px;
 	position:absolute;
@@ -77,7 +67,7 @@ section{
 
 aside{
 	background: #636;
-	text-align:center;
+	text-align: left;
 	float:right;
 	width:469px;
 	height:257px;
@@ -85,4 +75,5 @@ aside{
 	left:723px;
 	position:absolute;
 	border-radius:12px;
+	display: inline-block;
 }
